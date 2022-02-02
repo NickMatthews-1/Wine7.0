@@ -9,7 +9,7 @@ wget -nc https://dl.winehq.org/wine-builds/winehq.key
 #This adds the key to the keys list
 sudo apt-key add winehq.key
 
-#This adds the qinehq repository for version 7 to the repository list
+#This adds the winehq repository for version 7 to the repository list
 sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/debian/ bullseye main'
 
 #This updates everything
