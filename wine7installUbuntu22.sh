@@ -18,6 +18,9 @@ sudo mv winehq-jammy.sources /etc/apt/sources.list.d
 #This updates everything
 sudo apt update
 
+#This upgrades the packages
+sudo apt upgrade
+
 #This installs wine version 7
 sudo apt install --install-recommends winehq-devel
 
