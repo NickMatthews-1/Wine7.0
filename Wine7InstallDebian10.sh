@@ -10,7 +10,7 @@ wget -nc https://dl.winehq.org/wine-builds/winehq.key
 sudo mv winehq.key /usr/share/keyrings/winehq-archive.key
 
 #This adds the winehq repository for version 7 to the repository list
-wget -nc https://dl.winehq.org/wine-builds/debian/dists/bullseye/winehq-buster.sources
+wget -nc https://dl.winehq.org/wine-builds/debian/dists/buster/winehq-buster.sources
 
 #This moves the source to the sources list
 sudo mv winehq-buster.sources /etc/apt/sources.list.d
