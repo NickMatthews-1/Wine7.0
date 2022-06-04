@@ -15,6 +15,8 @@ Debian 11 (Bullseye)
 Debian Testing (Bookworm)
 Ubuntu (This will work on any Ubuntu variation)
 Fedora 35
+Fedora 36
+
 
 ### Fedora 35 Instructions 
 
