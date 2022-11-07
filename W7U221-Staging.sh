@@ -20,7 +20,4 @@ sudo apt upgrade
 #This installs wine version 7
 sudo apt install --install-recommends winehq-staging
 
-#This may not actually install as at the time of creation there was NO stable version of Wine for Ubuntu 22 platforms.
-#Wine7.0 came out before Jammy Jellyfish and Kinetic Kudu
-
 #Subject to GPLv3 License Copyright Nicolas Matthews 2022
