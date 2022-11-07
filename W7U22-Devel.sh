@@ -18,6 +18,6 @@ sudo apt update
 sudo apt upgrade
 
 #This installs wine version 7
-sudo apt install --install-recommends winehq-staging
+sudo apt install --install-recommends winehq-devel
 
 #Subject to GPLv3 License Copyright Nicolas Matthews 2022
